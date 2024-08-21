@@ -1,4 +1,4 @@
-document.getElementById("disc").addEventListener("mousemove",(event)=>{
+document.getElementById("body").addEventListener("mousemove",(event)=>{
     x=event.clientX;
     // console.log(x);
     y=event.clientY;
